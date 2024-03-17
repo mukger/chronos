@@ -1,4 +1,4 @@
-# usof_backend
+# chronos_backend
 
 <h2 id="req"> Requirements</h2>
 <ul>
